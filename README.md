@@ -35,8 +35,6 @@ The Clinic Management System is a robust solution crafted in Java for a Windows 
 - **Secure Data Handling:** Robust backend database management for ensured data security.
 
 ## Project Team and Contact Information
-George Bebawy : [GitHub](https://github.com/George-Bebawy) | [LinkedIn](https://www.linkedin.com/in/george-bebawy/) | [Mail](mailto:georgebebawy12@gmail.com)
-
 Samy Nagy : [GitHub](https://github.com/samynagy) | [LinkedIn](https://www.linkedin.com/in/samy-nagy-46ba41233/) | [Mail](mailto:samynagy95@gmail.com)
 
    
